@@ -1,0 +1,5 @@
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollTest\obj\Debug\netcoreapp3.1\EmployeePayrollTest.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollTest\obj\Debug\netcoreapp3.1\EmployeePayrollTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollTest\obj\Debug\netcoreapp3.1\EmployeePayrollTest.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollTest\obj\Debug\netcoreapp3.1\EmployeePayrollTest.AssemblyInfo.cs
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollTest\obj\Debug\netcoreapp3.1\EmployeePayrollTest.csproj.CoreCompileInputs.cache

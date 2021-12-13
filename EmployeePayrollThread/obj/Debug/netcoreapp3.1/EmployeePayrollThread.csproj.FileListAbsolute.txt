@@ -1,0 +1,14 @@
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.AssemblyInfo.cs
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.exe
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.deps.json
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.runtimeconfig.json
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.dll
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\bin\Debug\netcoreapp3.1\EmployeePayrollThread.pdb
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.dll
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.pdb
+C:\Users\CSC\source\repos\EmployeePayrollThread\EmployeePayrollThread\obj\Debug\netcoreapp3.1\EmployeePayrollThread.genruntimeconfig.cache
